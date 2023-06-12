@@ -1,0 +1,13 @@
+Backtracking -
+Backtracking can also be said as an improvement to the brute force approach. So basically,
+the idea behind the backtracking technique is that it searches for a solution to a problem among all the available options.
+Initially, we start the backtracking from one possible option and if the problem is solved with that selected option
+then we return the solution else we backtrack and select another option from the remaining available options.
+
+
+ *Backtracking name itself suggests that we are going back and coming forward;
+    * It uses the Brute force search to solve the problem.
+    * the brute force search says that for the given problem, we try to make all the possible solutions
+    * and pick out the best solution from all the desired solutions.
+    * backtracking is not used in solving optimization problems.
+    * Backtracking is used when we have multiple solutions, and we require all those solutions.
