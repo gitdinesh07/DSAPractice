@@ -1,4 +1,4 @@
-package DS;
+package DS.LinkedList;
 
 /*
  * we are going to implement or try to mimic LinkedList Java collection api
